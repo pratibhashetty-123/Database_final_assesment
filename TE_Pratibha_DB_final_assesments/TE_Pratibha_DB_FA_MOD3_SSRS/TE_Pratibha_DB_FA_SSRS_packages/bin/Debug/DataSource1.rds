@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=rewansolution.database.windows.net;Initial Catalog=pratibha</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>53ae555e-650b-4e37-9944-aafe19fc27c6</DataSourceID>
+</RptDataSource>
